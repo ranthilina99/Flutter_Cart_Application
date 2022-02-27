@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Images
 
-❮img src="https://github.com/ranthilina99/Flutter_Cart_Application/blob/master/images/image-1.png" ❯
+❮img src="images/image-1.png"❯
